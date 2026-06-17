@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte1\\Exo.WebApi.csproj": {}
+    "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte2\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte1\\Exo.WebApi.csproj": {
+    "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte2\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte1\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte2\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte1\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte2\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte1\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\OneDrive\\Desktop\\API-Parte2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
